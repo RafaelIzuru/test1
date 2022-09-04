@@ -92,3 +92,9 @@ body {
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
 }
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
