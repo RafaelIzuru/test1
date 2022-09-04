@@ -1,1 +1,1 @@
-https://RafaelIzuru.github.io/rsschool-cv2/
+https://RafaelIzuru.github.io/fix1/
